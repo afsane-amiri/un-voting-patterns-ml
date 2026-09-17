@@ -1,0 +1,21 @@
+# Large local datasets
+data/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Generated model outputs
+outputs/*.csv
